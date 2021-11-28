@@ -2,5 +2,4 @@
 - 👀 I’m able to develop web application with React, PHP, HTML,CSS, JAVASCRIPT, MYSQL
 - 💞️ I’m looking to collaborate on Web application projects. Available for work 
 - 📫 How to reach me:
-- ---------- my Email is: trongminh20@gmail.com
 - -----------my portfolio is: minhnphan.ca
