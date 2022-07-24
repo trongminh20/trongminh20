@@ -1,5 +1,8 @@
-- 👋 Hi, my name is Minh Phan
-- 👀 I’m able to develop web application with React, PHP,Java, Python, HTML CSS JS, etc.
-- 💞️ I’m looking to collaborate on Web application projects
-- 📫 How to reach me:
-- -----------my portfolio is: minhnphan.ca
+Skills set:
+- HTML, CSS, JS
+- ReactJs
+- VueJs
+- PHP
+- Java
+- MLSQL, NoSQL
+
