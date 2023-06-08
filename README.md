@@ -1,8 +1,9 @@
 Skills set:
 - HTML, CSS, JS
 - ReactJs
-- VueJs
+- VueJs 
 - PHP
 - Java
-- MLSQL, NoSQL
+- MySQL, NoSQL
+- wordpress, wix
 
